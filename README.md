@@ -76,9 +76,12 @@ Workflow
 Team: Page, Vincent 
 
 Datasets
+
 Whole genome sequencing data from an African men with aggressive prostate cancer, Project ID: PRJN412953 
 Targeted RNA-Seq from African population affected with prostate cancer: PRJNA531736  
+
 Workflow: 
+
 Single Omics data analysis approach
 
 Whole Genome sequencing 
@@ -86,6 +89,7 @@ Whole Genome sequencing
 RNA-Seq
 
 Multiomics analysis approach 
+
 Supervised methods 
 
 Unsupervised methods 
