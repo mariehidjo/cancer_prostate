@@ -27,4 +27,64 @@ Primary Outcome Measures
 4.	Proteomic profiling results – determine the proteomic information of the prostate cancer
 5.	Metabolomic profiling results – determine the profiles of the metabolites in prostate cancer patients
 
+References
+C. Manzoni, D. A. Kia, J. Vandrovcova et al., “Genome, transcriptome and proteome: the rise of omics data and their integration in biomedical sciences,” Briefings in Bioinformatics, vol. 19, no. 2, pp. 286–302, 2018. 
+
+Sung, H.; Ferlay, J.; Siegel, R.L.; Laversanne, M.; Soerjomataram, I.; Jemal, A.; Bray, F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J. Clin. 2021, 71, 209–249. 
+
+Sathianathen, N.J.; Konety, B.R.; Crook, J.; Saad, F.; Lawrentschuk, N. Landmarks in Prostate Cancer. Nat. Rev. Urol. 2018, 15, 627–642. 
+
+Gómez-Cebrián, N.; Poveda, J.L.; Pineda-Lucena, A.; Puchades-Carrasco, L. Metabolic Phenotyping in Prostate Cancer Using Multi-Omics Approaches. Cancers 2022, 14, 596. https://doi.org/10.3390/ cancers14030596
+R.L. Siegel, K.D. Miller, A. Jemal, Cancer statistics, 2019, CA Cancer J. Clin. 69 (1)
+(2019), https://doi.org/10.3322/caac.21551 (PubMed PMID: 30620402). 
+
+P. Mertins, D.R. Mani, K.V. Ruggles, M.A. Gillette, K.R. Clauser, P. Wang. Proteogenomics connects somatic mutations to signalling in breast cancer, Nature 534 (7605) (2016) 55–62, https://doi.org/10.1038/nature18003 (PubMed PMID: 27251275).
+
+ H. Zhang, T. Liu, Z. Zhang, S.H. Payne, B. Zhang, J.E. McDermott, et al., Integrated
+proteogenomic characterization of human high-grade serous ovarian cancer, Cell 166 (3) (2016) 755–765, https://doi.org/10.1016/j.cell.2016.05.069 (PubMed PMID: 27372738).
+
+S.E. Eggener, A.S. Cifu, C. Nabhan, Prostate cancer screening, JAMA 314 (8) (2015) 825–826, https://doi.org/10.1001/jama.2015.8033 (PubMed PMID:26305653). 
+
+G. Wang, D. Zhao, D.J. Spring, R.A. DePinho, Genetics and biology of prostate cancer, Genes Dev. 32 (17–18) (2018) 1105–1140, https://doi.org/10.1101/gad. 315739.118 (PubMed PMID: 30181359). 
+R.L. Siegel, K.D. Miller, A. Jemal, Cancer statistics, 2019, CA Cancer J. Clin. 69 (1) (2019), https://doi.org/10.3322/caac.21551 (PubMed PMID: 30620402). 
+
+A. Sinha, V. Huang, J. Livingstone, J. Wang, N.S. Fox, N. Kurganovs, et al., The Proteogenomic landscape of curable prostate cancer, Cancer Cell 35 (3) (2019), https://doi.org/10.1016/j.ccell.2019.02.005 (PubMed PMID: 30889379). 
+
+
+
+Team task assignment 
+Dataset 
+Team: Glory, Page, David enoma
+Literature review
+Team: Lawrence and Marie 
+Scripting
+Team: Page, Glory and Marie 
+Writing for progress: 
+Team: Marie 
+Slides
+Team: Glory and Lawrence
+Manuscript
+Team: Lawrence and David Juma
+Workflow
+Team: Page, Vincent 
+
+Datasets
+Whole genome sequencing data from an African men with aggressive prostate cancer, Project ID: PRJN412953 
+Targeted RNA-Seq from African population affected with prostate cancer: PRJNA531736  
+Workflow: 
+Single Omics data analysis approach
+
+Whole Genome sequencing 
+
+RNA-Seq
+
+Multiomics analysis approach 
+Supervised methods 
+
+Unsupervised methods 
+
+
+
+
+
 
